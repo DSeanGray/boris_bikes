@@ -4,7 +4,4 @@ class DockingStation
 
     end
 
-    def working?
-
-    end 
 end
